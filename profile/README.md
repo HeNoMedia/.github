@@ -1,5 +1,5 @@
+![logo.png](https://henomedia.de/wp-content/uploads/elementor/thumbs/HeNoMedia-Logo-Medium-Black-1-pgerpx9l346l8jjc4vh323x5nak5zemyw0d6149t7q.png)
 
-# HeNoMedia
 Willkommen bei HeNoMedia, einem Full-Service-Unternehmen für Webentwicklung, Design, Hosting, Veröffentlichung von Webseiten und Apps, Stickerdruck, Klamottendruck, Sublimationsdruck, Fotografie und Videographie.
 
 Unser Unternehmen wurde von Henning Norden gegründet und bietet hochwertige Dienstleistungen für unsere Kunden in Schleswig-Holstein und darüber hinaus. Wir sind stolz darauf, unseren Kunden bei der Verbesserung ihrer Online-Präsenz zu helfen und sind immer bereit, neue Herausforderungen anzunehmen.
